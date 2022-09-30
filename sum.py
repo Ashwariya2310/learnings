@@ -5,4 +5,4 @@ def  summed(s, j):
     return c
 
 n=summed(a, b)
-print(n)
+print("summ is: ", n)
